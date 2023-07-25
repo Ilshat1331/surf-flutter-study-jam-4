@@ -112,19 +112,6 @@ class _MagicBallScreenState extends State<MagicBallScreen>
           ),
       },
     );
-    // return Container(
-    //   decoration: const BoxDecoration(
-    //     gradient: LinearGradient(
-    //       begin: Alignment.topCenter,
-    //       end: Alignment.bottomCenter,
-    //       colors: [
-    //         Color(0xFF100C2C),
-    //         Color(0xFF000002),
-    //       ],
-    //     ),
-    //   ),
-    //   child: Ball(controller: _controller, starController: _starController),
-    // );
   }
 }
 
